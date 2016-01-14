@@ -1,0 +1,13 @@
+{
+  "name": "pre",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.1",
+    "jquery.snapscroll": "git@github.com:wtm/jquery.snapscroll.git"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
